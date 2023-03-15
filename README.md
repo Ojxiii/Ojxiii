@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there 👋 i am Ojx 🍔🍔🍔🍔🍔</h1>
 
-# About Me
+
+<h1 align="center"> About Me 🍜</h1>
 
 - 🐇 Bunny Dev Discord Server - https://discord.gg/GzAThXsEct
 - ☁️ Clouds Roleplay Dicord Server - https://discord.gg/c0c
