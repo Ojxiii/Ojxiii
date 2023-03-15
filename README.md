@@ -9,4 +9,6 @@
  
  
 # About My github profile 🍦
-- ![](https://komarev.com/ghpvc/?username=Ojxiii&label=VIEWS)
+ ![](https://komarev.com/ghpvc/?username=Ojxiii&label=VIEWS)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Ojxiii&theme=onedark&show_icons=true)
