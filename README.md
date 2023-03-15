@@ -7,8 +7,8 @@
 - ☁️ Clouds Roleplay Dicord Server - https://discord.gg/c0c
  
  
- 
-# About My github profile 🍦
+ <h1 align="center"> About My github profile 🍦</h1>
+
  ![](https://komarev.com/ghpvc/?username=Ojxiii&label=VIEWS)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ojxiii&theme=onedark&show_icons=true)
