@@ -1,6 +1,4 @@
-### Hi there 👋 i am Ojx 
-
-H
+<h1 align="center"> Hi there 👋 i am Ojx 🍔🍔🍔🍔🍔</h1>
 
 # About Me
 
