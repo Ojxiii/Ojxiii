@@ -3,9 +3,12 @@
 
 <h1 align="center"> About Me 🍜</h1>
 
-- 🐇 Bunny Dev Discord Server - https://discord.gg/GzAThXsEct
-- ☁️ Clouds Roleplay Dicord Server - https://discord.gg/c0c
- 
+
+- live in uae 🇦🇪 and i am |
+- Discord owner for 🐇 Bunny Dev  "Discord Server https://discord.gg/GzAThXsEct"
+- owner for ☁️ Clouds Roleplay  "Dicord Server https://discord.gg/c0c"
+- and i make ui/ux designs 🌊
+- and 🧑‍💻 I’m currently learning more about fivem lua
  
  <h1 align="center"> About My github profile 🍦</h1>
 
