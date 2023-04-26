@@ -5,8 +5,6 @@
 
 
 - live in uae 🇦🇪 and i am |
-- Discord owner for 🐇 Bunny Dev  "Discord Server https://discord.gg/GzAThXsEct"
-- owner for ☁️ Clouds Roleplay  "Dicord Server https://discord.gg/c0c"
 - and i make ui/ux designs 🌊
 - and 🧑‍💻 I’m currently learning more about fivem lua
  
