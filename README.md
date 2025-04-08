@@ -37,14 +37,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://github.com/Ojxiii/Ojxiii/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
-
-###
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ojxiii.ojxiii&right_color=blueviolet"  />
 
 ###
