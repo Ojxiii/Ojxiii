@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://discord.gg/yGUU59WjuM" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -39,6 +39,8 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ojxiii.ojxiii&right_color=blueviolet"  />
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ojxiii.ojxiii&right_color=blueviolet"  />
 
 ###
