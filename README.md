@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="91" src="https://media1.giphy.com/media/VJTAhOzkmy7620OMK8/200w.gif?cid=6c09b952o8fi6rjikq4d7e3o8wf55iwm2ttjfhe8zy6wy3zi&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+<img align="left" height="91" src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif"  />
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
 ###
