@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media1.giphy.com/media/VJTAhOzkmy7620OMK8/200w.gif?cid=6c09b952o8fi6rjikq4d7e3o8wf55iwm2ttjfhe8zy6wy3zi&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+<img align="left" height="91" src="https://media1.giphy.com/media/VJTAhOzkmy7620OMK8/200w.gif?cid=6c09b952o8fi6rjikq4d7e3o8wf55iwm2ttjfhe8zy6wy3zi&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
 
@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
 ###
